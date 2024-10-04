@@ -1,1 +1,1 @@
-# Minesweeper
+# Go to master branch
